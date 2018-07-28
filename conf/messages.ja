@@ -1,0 +1,12 @@
+Id=Id
+Title=タイトル
+Task=メッセージ
+CreateTask=メッセージ新規作成
+UpdateTask=メッセージ編集
+DeleteTask=メッセージ削除
+GetTasks=メッセージ一覧
+GetTask=メッセージ詳細
+
+CreateTaskError=メッセージ作成エラーが発生しました。
+UpdateTaskError=メッセージ更新エラーが発生しました。
+DeleteTaskError=メッセージ作成エラーが発生しました。
